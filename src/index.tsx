@@ -13,5 +13,5 @@ root.render(
   </React.StrictMode>
 );
 
-// or send to an analytics endpoint.
+// or send to an analytics
 reportWebVitals();
